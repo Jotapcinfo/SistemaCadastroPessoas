@@ -7,6 +7,6 @@ Apache/MySQL/PHP (Localhost)
 * Apagar
 * Pesquisar sem refresh(F5).
 
-Dev Jefferson Moreno - Referência - Curso de PHP com Prof Cesar Celke
+Dev Jefferson Moreno - Referência - Curso de PHP com Prof Cesar Celke.
 
 
