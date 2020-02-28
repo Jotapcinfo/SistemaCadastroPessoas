@@ -7,7 +7,7 @@ Apache/MySQL/PHP (Localhost)
 * Apagar
 * Pesquisar sem refresh(F5).
 
-(Nome, email, *criado, *modificado <-- Datatime)
+(Id, nome, email, *criado, *modificado <-- Datatime)
 
 Dev Jefferson Moreno - Referência - Curso de PHP com Prof Cesar Celke.
 
