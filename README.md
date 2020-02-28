@@ -7,6 +7,8 @@ Apache/MySQL/PHP (Localhost)
 * Apagar
 * Pesquisar sem refresh(F5).
 
+(Nome, email, criado, modificado)
+
 Dev Jefferson Moreno - Referência - Curso de PHP com Prof Cesar Celke.
 
 
