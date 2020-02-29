@@ -39,10 +39,10 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `created`, `modified`) VALUES
-(1, 'Jefferson', 'Jefferson@moreno.com.br', '26/02/2020 22:35:47', NULL),
-(2, 'Jefferson1', 'Jefferson1@moreno.com.br', '26/02/2020 22:37:15', NULL),
-(3, 'Jefferson2', 'Jefferson2@moreno.com.br', '26/02/2020 22:39:14', NULL),
-(4, 'Jefferson4', 'Jefferson4@moreno.com.br', '26/02/2020 22:41:21', NULL);
+(1, 'Jefferson', 'Jefferson4@Moreno.com.br', '26/02/2020 22:35:47', NULL),
+(2, 'Jefferson1', 'Jefferson5@Moreno.com.br', '26/02/2020 22:37:15', NULL),
+(3, 'Jefferson2', 'Jefferson6@Moreno.com.br', '26/02/2020 22:39:14', NULL),
+(4, 'Jefferson3', 'Jefferson7@Moreno.com.br', '26/02/2020 22:41:21', NULL);
 
 --
 -- Índices de tabelas apagadas
