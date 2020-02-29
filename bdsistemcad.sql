@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.4
+-- version 7.4.2
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 13/11/2017 às 00:52
--- Versão do servidor: 5.7.14
--- Versão do PHP: 7.0.10
+-- Tempo de geração: 26/02/2020 às 00:52
+-- Versão do servidor: 5.0.1
+-- Versão do PHP: 7.4.2
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -39,10 +39,10 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `created`, `modified`) VALUES
-(1, 'Jefferson', 'Jefferson@moreno.com.br', '2020-11-12 22:35:47', NULL),
-(2, 'Jefferson1', 'Jefferson1@moreno.com.br', '2020-11-12 22:37:15', NULL),
-(3, 'Jefferson2', 'Jefferson2@moreno.com.br', '2020-11-12 22:39:14', NULL),
-(4, 'Jefferson4', 'Jefferson4@moreno.com.br', '2020-11-12 22:41:21', NULL);
+(1, 'Jefferson', 'Jefferson@moreno.com.br', '2020-02-26 22:35:47', NULL),
+(2, 'Jefferson1', 'Jefferson1@moreno.com.br', '2020-02-26 22:37:15', NULL),
+(3, 'Jefferson2', 'Jefferson2@moreno.com.br', '2020-02-26 22:39:14', NULL),
+(4, 'Jefferson4', 'Jefferson4@moreno.com.br', '2020-02-26 22:41:21', NULL);
 
 --
 -- Índices de tabelas apagadas
