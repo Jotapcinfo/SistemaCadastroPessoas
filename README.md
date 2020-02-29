@@ -5,6 +5,8 @@ Apache/MySQL/PHP (Localhost)
 * Cadastrar
 * Editar
 * Apagar
+* Listar
+* Pesquisar
 * Pesquisar sem refresh(F5).
 
 (Id, nome, email, *criado, *modificado <-- Datatime)
