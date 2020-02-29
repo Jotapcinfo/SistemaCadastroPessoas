@@ -11,6 +11,6 @@ BD 10.4.11-MariaDB/Web MySQL 7.4.2 - PhpMyAdmin 5.0.1/Apache 2.4.41/PHP 7.4.2 (L
 
 (Id, nome, email, *criado, *modificado <-- Datatime)
 
-Dev Jefferson Moreno - Referência - Curso de PHP com Prof Cesar Celke.
+Dev Jefferson Moreno - Referência - Curso de PHP com Prof. Cesar Celke.
 
 
