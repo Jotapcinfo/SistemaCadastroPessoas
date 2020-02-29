@@ -1,5 +1,5 @@
 # SistemaCadastroPessoas
-Apache/MySQL/PHP (Localhost)
+Apache 2.4.41/MySQL 7.4.2 / 10.4.11-MariaDB/PHP 7.4.2 (Localhost)
 
 # Sistema para cadastro de pessoas em banco de dados com tabela relacional PhpMyAdmin
 * Cadastrar
