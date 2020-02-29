@@ -1,10 +1,10 @@
 -- phpMyAdmin SQL Dump
--- version 7.4.2
+-- version 5.0.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
 -- Tempo de geração: 26/02/2020 às 00:52
--- Versão do servidor: 5.0.1
+-- Versão do servidor: 2.4.41
 -- Versão do PHP: 7.4.2
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
